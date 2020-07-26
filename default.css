@@ -37,8 +37,13 @@ h2, h3, h4, h5, h6, strong{
 
 }
 
-p, li, span, label, input, link, a, textarea{
+span, input, link, a, textarea{
 	color: var(--secondaryText);
+	font-family: 'Roboto Mono', monospace;
+}
+
+p, li, label{
+	color: var(--mainText);
 	font-family: 'Roboto Mono', monospace;
 }
 
