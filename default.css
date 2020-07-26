@@ -76,7 +76,7 @@ h6 { font-size: 16px; }
 
 	/* create container for centering */
 .main-container{
-	width: 1200px;
+	width: 1100px;
 	margin: 0 auto;
 }
 
@@ -358,9 +358,9 @@ h6 { font-size: 16px; }
 
 
 	/* to make it mobile responsive */
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 1100px){
 	.main-container{
-		width: 75%;
+		width: 95%;
 	}
 }
 
